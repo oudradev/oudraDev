@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm OudraDev!
 
+💻 **Software Developer** | 🚀 Passionate about web development & open-source  
 
-**oudradev/oudraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
+- 🔭 I’m currently working on improving my GitHub profile
+- 🌱 Learning: React, Node.js, and TypeScript
+- 💬 Ask me about JavaScript, web apps, or UI design
+- ⚡ Fun fact: I love clean code and coffee ☕
 
-Here are some ideas to get you started:
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=firefox&logoColor=white)](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+### 📊 GitHub Stats
+![OudraDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=outradev&show_icons=true&theme=tokyonight)
+
+### 🏆 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=outradev&layout=compact&theme=tokyonight)
